@@ -23,7 +23,7 @@
 * [CourseUpload](https://courseupload.com/)
 * [GetFreeCourses](https://getfreecourses.co/)
 * [FreeCourseSite](https://freecoursesite.com/)
-* The F Squad : [FTU](https://www.ftuforums.com/) - [FCO](https://www.freecoursesonline.me/) - [FTU](https://www.freetutorialsus.com/) - [GFC](https://www.getfreecourses.org/) - [FTU](https://www.freetutorialseu.com/) - [FCS](https://www.freecoursessites.com/) - [FTU](https://www.ftuudemy.com/) - [FCL](https://www.freecourseslab.com/)
+* The F Squad : [FTU](https://www.ftuforums.com/) - [FCO](https://www.freecoursesonline.me/) - [FTU](https://www.freetutorialsus.com/) - [GFC](https://www.getfreecourses.org/) - [FTU](https://www.freetutorialseu.com/) - [FCS](https://freecoursesite.com/) - [FTU](https://www.ftuudemy.com/) - [FCL](https://www.freecourseslab.com/)
 * CourseForFree : [1](https://courseforfree.com/) - [2](https://courseforfree.net/)
 * [Udemy 24](https://udemy24.com/)
 * [FreeTuts](https://freetutsdownload.net/)
